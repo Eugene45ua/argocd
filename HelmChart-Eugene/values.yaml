@@ -1,0 +1,6 @@
+# Default Values for Helm Chart
+
+container:
+  image: eugene45ua/testk8sphp:latest
+  
+replicaCount: 2
